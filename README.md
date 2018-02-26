@@ -1,1 +1,1 @@
- This program dets a information of friends from twitter by twitter api.
+ This program gets an information about friends from twitter by twitter api.
